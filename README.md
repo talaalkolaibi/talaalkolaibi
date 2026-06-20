@@ -25,7 +25,7 @@ Tech Stack:
 - XGBoost
 
 GitHub:
-supply-chain-project
+(https://github.com/talaalkolaibi/supply-chain-project)
 
 ## Web Development
 - HTML
