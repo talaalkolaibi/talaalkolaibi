@@ -25,7 +25,7 @@ Tech Stack:
 - XGBoost
 
 GitHub:
-[Supply Chain Prediction](YOUR_REPO_LINK)
+supply-chain-project
 
 ## Web Development
 - HTML
@@ -34,4 +34,4 @@ GitHub:
 - React
 
 ## Contact
-LinkedIn: YOUR_LINKEDIN_LINK
+LinkedIn: https://www.linkedin.com/in/tala-alkolaibi/
