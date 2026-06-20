@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Tala 👋
 
-<!--
-**talaalkolaibi/talaalkolaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Computer Science Graduate.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- Machine Learning
+- Data Analysis
+- HTML/CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Supply Chain Prediction
+Machine learning system that predicts:
+- Shipment duration
+- Late delivery risk
+
+Tech Stack:
+- Python
+- FastAPI
+- Next.js
+- Random Forest
+- XGBoost
+
+GitHub:
+[Supply Chain Prediction](YOUR_REPO_LINK)
+
+## Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Contact
+LinkedIn: YOUR_LINKEDIN_LINK
